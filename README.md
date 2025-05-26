@@ -63,7 +63,7 @@
   </h3>
 
   <div>
-    <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a>
+    <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a><br>
     <a href="https://flatuicolors.com">FLAT UI COLORS 2</a>
   </div>
 </div>
