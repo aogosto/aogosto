@@ -57,4 +57,12 @@
   </h3>
   
   ![](https://github-profile-trophy.vercel.app/?username=aogosto&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+  <h3>
+    Util.
+  </h3>
+
+  <div>
+    <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a>
+  </div>
 </div>
