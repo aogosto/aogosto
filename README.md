@@ -63,11 +63,16 @@
   </h3>
 
   <div>
-    <a href="https://bradfrost.com/blog/post/atomic-web-design">Atomic Design</a><br>
-    <a href="https://flatuicolors.com">FLAT UI COLORS 2</a>
-    <a href="https://specificity.keegan.st">Specificity Calculator</a>
-    <a href="https://smacss.com">Scalable and Modular Architecture for CSS</a>
-    <a href="https://getbem.com">Block Element Modifier</a>
+    <a href="https://validator.w3.org">The W3C Markup Validation Service</a><br>
+    <a href="https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design">Common Screen Sizes for Responsive Web Design | Altamira</a><br>
+    <a href="https://developer.mozilla.org/en-US">MDN Web Docs</a><br>
+    <a href="https://bradfrost.com/blog/post/atomic-web-design">Atomic Design | Brad Frost</a><br>
+    <a href="https://flatuicolors.com">Flat UI Colors</a><br>
+    <a href="https://specificity.keegan.st">Specificity Calculator</a><br>
+    <a href="https://smacss.com">Scalable and Modular Architecture for CSS</a><br>
+    <a href="https://getbem.com">BEM — Block Element Modifier</a><br>
     <a href="https://caniuse.com">Can I use... Support tables for HTML5, CSS3, etc</a>
+    <a href="https://browsersl.ist">Browserslist</a>
+    <a href="https://babeljs.io">Babel</a>
   </div>
 </div>
