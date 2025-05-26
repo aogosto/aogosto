@@ -63,7 +63,11 @@
   </h3>
 
   <div>
-    <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a><br>
+    <a href="https://bradfrost.com/blog/post/atomic-web-design">Atomic Design</a><br>
     <a href="https://flatuicolors.com">FLAT UI COLORS 2</a>
+    <a href="https://specificity.keegan.st">Specificity Calculator</a>
+    <a href="https://smacss.com">Scalable and Modular Architecture for CSS</a>
+    <a href="https://getbem.com">Block Element Modifier</a>
+    <a href="https://caniuse.com">Can I use... Support tables for HTML5, CSS3, etc</a>
   </div>
 </div>
