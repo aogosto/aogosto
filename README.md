@@ -47,7 +47,7 @@
   </h3>
   
   <div>
-    <a href="https://github.com/Acgusto">
+    <a href="https://github.com/aogosto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acgusto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&layout=compact&langs_count=16&theme=github_dark">
   </div>
@@ -56,5 +56,5 @@
     GitHub Throphies
   </h3>
   
-  ![](https://github-profile-trophy.vercel.app/?username=Acgusto&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=aogosto&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 </div>
