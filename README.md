@@ -63,6 +63,6 @@
   </h3>
 
   <div>
-    <a href="https://bradfrost.com/blog/post/atomic-web-design/" sytle="color: white">Atomic Design</a>
+    <a href="https://bradfrost.com/blog/post/atomic-web-design/" style="color: white">Atomic Design</a>
   </div>
 </div>
