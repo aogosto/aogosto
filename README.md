@@ -1,5 +1,7 @@
 <div align="center">
-  [![James Jirat Patradoon](./World square mural 2.jpg)](https://www.jirat.jp/about)
+<a href="https://www.jirat.jp/about">
+  <img src="./World square mural 2.jpg">
+</a>
 
 ### About Myself
 
