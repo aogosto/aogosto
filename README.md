@@ -52,9 +52,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acgusto&layout=compact&langs_count=16&theme=github_dark">
   </div>
 
-  <h3>
+  <h1>
     GitHub Throphies
-  </h3>
+  </h1>
   
   ![](https://github-profile-trophy.vercel.app/?username=aogosto&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
