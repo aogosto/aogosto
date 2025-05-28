@@ -1,4 +1,5 @@
 <div align="center">
+  
 <a href="https://www.jirat.jp/about">
   <img src="./World square mural 2.jpg">
 </a>
