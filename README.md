@@ -1,7 +1,7 @@
 <div align="center">
   
 <a href="https://www.jirat.jp/">
-  <img src="./World square mural 2.jpg">
+  <img src="./cloud.jpg">
 </a>
 
 ### About Myself
