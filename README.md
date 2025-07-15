@@ -1,7 +1,7 @@
 <div align="center">
   
 <a href="https://www.jirat.jp/">
-  <img src="./cloud.jpg">
+  <img src="">
 </a>
 
 ### About Myself
